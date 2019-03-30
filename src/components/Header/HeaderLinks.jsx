@@ -52,7 +52,7 @@ function HeaderLinks({ ...props }) {
           color="transparent"
           className={classes.navLink}
         > 
-        <a href="#sce" style={{color: 'White '}}>
+        <a href="#sce" style={{color: LimeGreen}}>
         <strong><h5><strong>About Us</strong></h5></strong></a>
         </Button>
       </ListItem>
@@ -60,7 +60,7 @@ function HeaderLinks({ ...props }) {
         <Button
           color="transparent"
           className={classes.navLink}
-        ><a href="#ws"  style={{color: 'White '}}>
+        ><a href="#ws"  style={{color: 'LimeGreen'}}>
         <strong><h5><strong>Download Our App</strong></h5></strong></a>
         </Button>
       </ListItem>
@@ -68,7 +68,7 @@ function HeaderLinks({ ...props }) {
         <Button
           color="transparent"
           className={classes.navLink}
-        ><a href="#ws"  style={{color: 'White '}}>
+        ><a href="#ws"  style={{color:'LimeGreen'}}>
         <strong><h5><strong>Contact Us</strong></h5></strong></a>
         </Button>
       </ListItem>
