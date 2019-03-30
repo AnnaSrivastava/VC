@@ -52,7 +52,7 @@ function HeaderLinks({ ...props }) {
           color="transparent"
           className={classes.navLink}
         > 
-        <a href="#sce" style={{color: LimeGreen}}>
+        <a href="#sce" style={{color: 'LimeGreen'}}>
         <strong><h5><strong>About Us</strong></h5></strong></a>
         </Button>
       </ListItem>
