@@ -37,7 +37,7 @@ class Components extends React.Component {
     return (
       <div>
         <Header
-          brand={<a href="#"><img src="assets/img/dc4.PNG"></img></a>}
+          brand={<a href="#"><img src={require("assets/img/dc4.PNG")}></img></a>}
           rightLinks={<HeaderLinks />}
           fixed
           color="transparent"

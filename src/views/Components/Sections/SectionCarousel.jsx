@@ -39,7 +39,7 @@ class SectionCarousel extends React.Component {
                       className="slick-image"
                     />
                     <div className="slick-caption">
-                    <hr></hr><h4><strong>MORE INCOME FOR FARMERS</strong></h4><hr></hr>
+                    <hr width="30%"></hr><h4><strong>MORE INCOME FOR FARMERS</strong></h4><hr width="30%"></hr>
                     </div>
                   </div>
                   <div>
@@ -49,7 +49,7 @@ class SectionCarousel extends React.Component {
                       className="slick-image"
                     />
                     <div className="slick-caption">
-                    <hr></hr><h4><strong>LESS PRICE TO RETAILERS AND INDIVIDUALS</strong></h4><hr></hr>
+                    <hr width="30%"></hr><h4><strong>LESS PRICE TO RETAILERS AND INDIVIDUALS</strong></h4><hr width="30%"></hr>
                     </div>
                   </div>
                   <div>
@@ -59,11 +59,11 @@ class SectionCarousel extends React.Component {
                       className="slick-image"
                     />
                     <div className="slick-caption">
-                      <hr></hr>
+                      <hr width="30%"></hr>
                       <h4>
                         <strong>QUALITY FOOD FOR EVERYONE</strong>
                       </h4>
-                      <hr></hr>
+                      <hr width="30%"></hr>
                     </div>
                   </div>
                 </Carousel>

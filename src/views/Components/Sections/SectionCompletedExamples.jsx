@@ -28,7 +28,8 @@ class SectionCompletedExamples extends React.Component {
                 farmers without any involvement of the middlemen and ensure more
                 income for farmers with consistent demand.
               </h3>
-              <img src="assets/img/au.PNG" alt ="OOPS!"></img>
+              <br></br>
+              <img src={require("assets/img/aboutus.PNG")}></img>
             </GridItem>
           </GridContainer>
         </div>
