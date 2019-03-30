@@ -20,10 +20,10 @@ class WorkSection extends React.Component {
         <GridContainer justify="center">
           <GridItem cs={12} sm={12} md={8}>
             <h2 className={classes.title}>Contact Us</h2>
-            <h4 className={classes.description}>
+            <h3 className={classes.description}>
               We would love to know your thoughts about this intiative of ours.<br></br>
               Don't hesitate to drop us a message.
-            </h4>
+            </h3>
             <form>
               <GridContainer>
                 <GridItem xs={12} sm={12} md={6}>

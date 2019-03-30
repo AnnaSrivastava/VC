@@ -37,7 +37,7 @@ class Components extends React.Component {
     return (
       <div>
         <Header
-          brand={<a href="#" style={{color: 'LimeGreen '}}><strong><h4><strong>Diet Cart</strong></h4></strong></a>}
+          brand={<a href="#"><img src="assets/img/dc4.PNG"></img></a>}
           rightLinks={<HeaderLinks />}
           fixed
           color="transparent"
@@ -53,7 +53,6 @@ class Components extends React.Component {
               <GridItem>
                 <div className={classes.brand}>
                   <h1 className={classes.title}>DIET CART</h1>
-                  {/* <img src="vc.jpg" alt="OOPS"/> */}
                   <h3 className={classes.subtitle}>
                     Get your fresh vegetables and fruits direct from farmland to home.
                   </h3>

@@ -17,8 +17,8 @@ class SectionCompletedExamples extends React.Component {
         <div className={classes.container}>
           <GridContainer justify="center">
             <GridItem xs={12} sm={12} md={8}>
-              <h2>ABOUT US</h2>
-              <h4>
+              <h2><strong>ABOUT US</strong></h2>
+              <h3>
                 <strong>Diet Cart</strong> was made keeping health-care in mind
                 for customers so that fresh fruits and vegetables reach them
                 directly from the farmers. The main idea is to remove the
@@ -27,7 +27,8 @@ class SectionCompletedExamples extends React.Component {
                 retailers to get fresh fruits delivered to them directly from
                 farmers without any involvement of the middlemen and ensure more
                 income for farmers with consistent demand.
-              </h4>
+              </h3>
+              <img src="assets/img/au.PNG" alt ="OOPS!"></img>
             </GridItem>
           </GridContainer>
         </div>
