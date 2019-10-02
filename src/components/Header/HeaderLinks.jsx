@@ -15,8 +15,7 @@ import ListItem from "@material-ui/core/ListItem";
 // core components
 // import CustomDropdown from "components/CustomDropdown/CustomDropdown.jsx";
 import Button from "components/CustomButtons/Button.jsx";
-import WorkSection from "views/Components/Sections/WorkSection.jsx";
-import SectionCompletedExamples from "views/Components/Sections/SectionCompletedExamples.jsx";
+
 
 import headerLinksStyle from "assets/jss/material-kit-react/components/headerLinksStyle.jsx";
 

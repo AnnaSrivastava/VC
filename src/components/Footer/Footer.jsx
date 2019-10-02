@@ -66,7 +66,7 @@ function Footer({ ...props }) {
         </div>
         <div className={classes.left}>
           &copy; {1900 + new Date().getYear()} by{" "}
-           <strong> Diet Cart</strong>, an Intellectual Property of <strong>Hack'O'Holics.</strong>
+           <strong> Vegan Cart</strong>, an Intellectual Property of <strong>Hack'O'Holics.</strong>
         </div>
       </div>
     </footer>
