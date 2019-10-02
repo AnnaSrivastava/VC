@@ -14,9 +14,6 @@ function Badge({ ...props }) {
   );
 }
 
-Badge.defaultProps = {
-  color: "gray"
-};
 
 Badge.propTypes = {
   classes: PropTypes.object.isRequired,
