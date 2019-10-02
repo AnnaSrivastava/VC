@@ -13,7 +13,9 @@ function Badge({ ...props }) {
     <span className={classes.badge + " " + classes[color]}>{children}</span>
   );
 }
-
+CustomLinearProgress.defaultProps = {
+  color: "gray"
+};
 
 Badge.propTypes = {
   classes: PropTypes.object.isRequired,
