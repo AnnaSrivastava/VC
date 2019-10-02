@@ -21,6 +21,8 @@ function CustomLinearProgress({ ...props }) {
   );
 }
 
+
+
 CustomLinearProgress.defaultProps = {
   color: "gray"
 };
